@@ -33,15 +33,7 @@ To run this game, you need to have the following installed on your system:
    ```bash
    pip install pygame
    ```
-   ```bash
-   pip install random
-   ```
-   ```bash
-   pip install time
-   ```
-   ```bash
-   pip install math
-   ```
+
 
 ## Running the Game
 
